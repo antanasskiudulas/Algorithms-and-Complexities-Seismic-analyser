@@ -1,0 +1,36 @@
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe.config
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.pdb
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science\Programming and Data Structures\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.pdb
+C:\Users\Antanas\Desktop\BSc Comupter Science\Algorithms and Complexity\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe.config
+C:\Users\Antanas\Desktop\BSc Comupter Science\Algorithms and Complexity\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science\Algorithms and Complexity\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.pdb
+C:\Users\Antanas\Desktop\BSc Comupter Science\Algorithms and Complexity\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science\Algorithms and Complexity\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.pdb
+C:\Users\Antanas\Desktop\BSc Comupter Science\Algorithms and Complexity\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.csprojResolveAssemblyReference.cache
+E:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe.config
+E:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.exe
+E:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.pdb
+E:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe
+E:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.pdb
+E:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.csprojResolveAssemblyReference.cache
+H:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe.config
+H:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.exe
+H:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.pdb
+H:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe
+H:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.pdb
+H:\Submissions\Algorithms and Complexity\At Home version\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Antanas\Desktop\BSc Comupter Science Y1\Expierment\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe.config
+C:\Users\Antanas\Desktop\BSc Comupter Science Y1\Expierment\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science Y1\Expierment\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.pdb
+C:\Users\Antanas\Desktop\BSc Comupter Science Y1\Expierment\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Antanas\Desktop\BSc Comupter Science Y1\Expierment\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe
+C:\Users\Antanas\Desktop\BSc Comupter Science Y1\Expierment\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.pdb
+H:\Submissions\Algorithms and Complexity\Assessment 2\Sesmic Analysis Application\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe.config
+H:\Submissions\Algorithms and Complexity\Assessment 2\Sesmic Analysis Application\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.exe
+H:\Submissions\Algorithms and Complexity\Assessment 2\Sesmic Analysis Application\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.pdb
+H:\Submissions\Algorithms and Complexity\Assessment 2\Seismic Analysis Application\SesmicAnalysis\SesmicAnalysis\bin\Debug\SesmicAnalysis.exe.config
+H:\Submissions\Algorithms and Complexity\Assessment 2\Seismic Analysis Application\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.exe
+H:\Submissions\Algorithms and Complexity\Assessment 2\Seismic Analysis Application\SesmicAnalysis\SesmicAnalysis\obj\Debug\SesmicAnalysis.pdb
